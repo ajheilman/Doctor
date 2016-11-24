@@ -1,2 +1,2 @@
 # Python
-This is where my Python projects are
+This is a simple 'doctor' program
